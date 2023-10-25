@@ -3,9 +3,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "App.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node App.js",
+    "start": "node index.js",
    
     "build": "npm run build"
   },
